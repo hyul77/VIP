@@ -16,8 +16,7 @@ https://github.com/hyul77/VIP/assets/100561170/94f8753f-c21e-4896-bd42-d9fc225d8
 - [VideoInpainting](https://github.com/ruiliu-ai/FuseFormer)<br/>
 - [PCVOS](https://github.com/pkyong95/PCVOS)<br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) <br/>
+
 
 
 # 설명
