@@ -51,6 +51,7 @@ https://github.com/hyul77/VIP/assets/100561170/94f8753f-c21e-4896-bd42-d9fc225d8
 <br/>
 
 
+![캡스톤디자인 최우수상](https://github.com/user-attachments/assets/d82b089b-8e15-4727-855a-13fb73010175)
 
 
 
